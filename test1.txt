@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 No pusiste tu nombre y apellido acá...
 
 ARCHIVO MODIFICADO POR EL PROFESOR RAUL. NO CAMBIAR ESTA LINEA. DEJARLA COMO ESTA. 
-=======
-Apellido y nombre
->>>>>>> 4d102e20be2d3e1962dbdcbe5b18535ad0d85582
+
+Apellido y nombre (No, tu apellido y tu nombre O_o)
